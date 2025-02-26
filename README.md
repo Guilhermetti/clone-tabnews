@@ -1,2 +1,2 @@
-# clone-tabnews
-Implementação do https://www.tabnews.com.br para o https://curso.dev
+## Projeto do Curso.dev
+Este repositório contém os materiais e o código desenvolvido ao longo do curso Curso.dev do Filipe Deschamps😄
